@@ -2,9 +2,9 @@
 
   [Directory that stores the raw documents ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
 
-  [Annotated Train Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/dev_data)
+  [Annotated Train Set (I) ](https://github.com/batravarun125/CS839-Data-Science/tree/master/dev_data)
   
-  [Annotated Test Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/test_data)
+  [Annotated Test Set (J) ](https://github.com/batravarun125/CS839-Data-Science/tree/master/test_data)
   
   [Code ](https://github.com/batravarun125/CS839-Data-Science)
   
