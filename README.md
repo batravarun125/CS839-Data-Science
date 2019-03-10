@@ -1,10 +1,10 @@
 # Stage 1
 
-  [Directory that stores the documents ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
+  [Directory that stores the raw documents ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
 
-  [Train Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/dev_data)
+  [Annotated Train Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/dev_data)
   
-  [Test Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/test_data)
+  [Annotated Test Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/test_data)
   
   [Code ](https://github.com/batravarun125/CS839-Data-Science)
   
