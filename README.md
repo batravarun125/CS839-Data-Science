@@ -1,4 +1,8 @@
-# Stage 1
+# Project Stage – 1 Named Entity Recognition
+  [Team Members :]
+  [Varun Batra (vbatra@wisc.edu)]
+  [Vibhor Goel (vgoel5@wisc.edu)]
+  [Adarsh Kumar (kumar92@wisc.edu)]
 
   [Directory that stores the raw documents ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
 
