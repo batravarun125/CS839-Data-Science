@@ -1,6 +1,5 @@
 # Stage 1
 
-# Required Links : 
   [Directory that stores the documents ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
 
   [Train Set ](https://github.com/batravarun125/CS839-Data-Science/tree/master/dev_data)
