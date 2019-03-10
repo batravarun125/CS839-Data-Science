@@ -1,0 +1,63 @@
+URL: http://www.nytimes.com/2016/06/30/upshot/if-donald-trump-lost-would-he-concede.html
+
+Each week, Nate Cohn, The Upshot’s elections analyst, based in Washington, and Toni Monkovic, an Upshot editor based in New York, discuss the 2016 race and post a lightly edited transcript of their written exchange. This week, we start with: What is with all the conspiracy theories?
+Toni One thing I’ve learned at The Upshot in the last year: People, from the right and the left, believe in conspiracies more than I would have thought. And elections bring out the worst of it.
+The political scientists Joseph Uscinski and Joseph Parent have written that “near equal numbers of Republicans and Democrats (between 40 percent and 50 percent)” are predisposed to believe in the possibility of voter fraud if their preferred presidential candidate does not win.
+“Each side believes that if they lose, cheating is to blame, and they believe it about equally. Nobody likes losing, but it appears hard for about half the country to accept that they lost fair and square.”
+Nate Yeah, well, I’ve met them.
+There’s a weird rhythm to it.
+They dominate my Twitter feed and email when I go to bed and when I’m waking up, because that’s when other people stop tweeting — leaving only the conspiracists.
+Or perhaps they all live out West.
+Toni Speaking of the West, when will California election officials declare that Bernie Sanders has won the state?
+Nate As far as I can tell, about half of the Bernie-conspiracy types think Sanders has won California and the media is covering it up. The other half think Hillary Clinton stole California. I assume they’ll get on the same page once the California results become official. Clinton is up by around 420,000 votes right now with 587,000 votes left to be counted — including G.O.P. ballots. He eroded her edge in the late count a bit — her edge peaked somewhere around 475,000 ballots — but obviously he’s coming nowhere close to winning.
+Oh, I just got a new email.
+Lisa writes: “Agree that exit polling is not the be-all and end-all, but how about millions of registered Dem voters in state after state being dropped from the rolls? How about all those provisional ballots those people cast which were never counted? If you look at ALL the evidence, there is way too much smoke for there not to be a fire.”
+[Note: The reader was responding to Nate’s article on Monday about the conspiracy theory around exit polls.]
+This is actually one of the more thoughtful emails I’ve gotten in a while, and it does highlight one fair complaint: A lot of things about our election system don’t look good or don’t work well, even when they work as intended.
+The gradual purging of voters who haven’t voted in several elections and haven’t returned a postcard to verify their address, for instance, always raises eyebrows — even though there’s virtually no effect on election results, since most of those people have died or moved.
+The provisional system is a mess (though it’s better than not being able to vote at all). There are plenty of good reasons for people to think the U.S. election system doesn’t work, even if there are basically zero reasons to think it’s “rigged” or that there’s multistate election fraud.
+Toni Donald Trump may be the most conspiracy-minded major candidate in modern American history, starting with the birther movement. If he loses to Clinton, how will he and his supporters take it?
+Nate Oh, that’s a great question. Do you think he’d concede?
+Toni It’s traditional for the loser to congratulate the winner on election night. If he lost, I could see him taking his sweet time.
+And then we may hear some interesting theories.
+Nate Clinton could go down as the first candidate to win both the nomination and the presidency — perhaps even decisively — without a proper concession.
+Toni That’s an amazing thought. Do you think Sanders will concede by Nov. 8?
+Nate Haha, I assume so. But hey, maybe not.
+Toni Shortly after our conversation about Pennsylvania last week — Trump wasn’t campaigning there, and Clinton wasn’t advertising there — a few things happened:
+Trump didn’t go to Scranton. He went to Scotland.
+Priorities USA, a super PAC supporting Clinton, put in a big advertising buy for Pennsylvania.
+But then Trump scheduled an economic speech in western Pennsylvania, in a former steel mill town, Monessen, and he’s speaking there today (Tuesday).
+Nate I think Monessen is a great place for Trump to stop. It’s a town that voted 2-to-1 for Obama, and it’s at the northern tip of this old industrial area along the Monongahela that still votes for Democrats. It’s exactly the sort of place where Trump can make additional gains among white working-class voters, and there are a lot of them — even in a part of the state where the G.O.P. has made big gains in recent cycles.
+Toni And then it’s on to Maine for Trump, in Bangor. An interesting parallel: Trump could win an electoral vote in blue Maine, and Clinton could win one in red Nebraska.
+Nate I think ME-2 (the 2nd Congressional District in Maine) is a good target for him, too. It’s extremely white, and it voted for Obama by only eight points.
+Toni After the British referendum on Thursday, you wrote on Twitter: “Winners: polls taken over the final few weeks; losers: betting markets, the ‘who will win’ question, focusing only on the very last polls.”
+There’s a lot of ground to cover there. But maybe we can touch on the polling, which for all the criticism it has received, has acquitted itself pretty well in the last year or so, particularly with regards to Trump.
+Nate Well, I don’t know if I’d say it’s done well. It hasn’t been great.
+Toni Better than betting markets.
+Nate I don’t know; I haven’t looked at it carefully yet.
+Toni Every system has flaws, but how else are we going to analyze things?
+Nate I think the key is to appreciate the amount of uncertainty. There were a lot of people — apparently the entire financial markets — who really didn’t think this was a serious possibility, despite what the polls said.
+Toni Let’s turn to the uncertainty over state polling. The battleground state polls have generally been pretty close, with the exception of Florida, which is an extremely important state for Republicans. It’s hard to plot a path for Republicans to win without it.
+Harry Enten of FiveThirtyEight gave an example on Twitter: “I see 3 Florida polls taken since Clinton won the nomination: Clinton +3 (YouGov), Clinton +13 (St Leo), Clinton +8 (Q-Pac),” and “if Clinton won Florida/Virginia, she could lose OH, PA, NH, 1 electoral vote in Maine, Iowa, and Colorado, so long as she won Nevada/NM.”
+Nate Before getting into Florida, I just want to note that the battleground state polls have generally been of fairly low quality. A lot of the better ones are from YouGov, which also shows a fairly close race nationally. The one live interview survey that is fairly comparable to the national polls is from Marquette, and it shows Clinton up nine points in Wisconsin.
+That said, I’m not surprised that Florida looks so bad for the Republicans. There’s been a lot of demographic change there over the last decade, and the only reason it stayed close is because Obama did particularly poorly with white voters in Florida. It was a bad fit for him: a mix of older voters, Southern voters, Jewish voters.
+Now the G.O.P. nominates Trump, who has alienated Latino voters in the state where the Republicans are most dependent on them, and the Democrats nominate Clinton, who is relatively strong among older, Jewish and Southern white voters. You can imagine this getting out of hand pretty quickly.
+Toni I would think Clinton would do better with Jewish voters. She was a senator from New York, for one thing, and has worked to earn their support there. She knows them; they know her.
+Nate Well, she definitely beat Obama in the ’08 primary among Jewish voters.
+Clinton basically swept everywhere in South Florida in the 2016 primary, including relatively Jewish areas. It was really one of her best regions of the entire country. She won 70 percent of the vote in all of the major counties there along Florida’s Gold Coast.
+Toni I encourage readers to play with this interactive website to see how hard it is for the G.O.P. to win without Florida. But there’s another terrifying map for Republicans.
+Nate Silver of FiveThirtyEight wrote: “I buy Arizona as a swing state this year. It opens up some winning maps for Clinton she wouldn’t have otherwise.”
+The betting markets give Democrats a 25 percent chance to win Arizona, significantly better odds than the Democrats have of flipping other long-shot states like Georgia or Missouri or Indiana.
+Nate I do think Arizona could be competitive. I’m not sure I agree that it opens up too many maps for Clinton, since I think if she wins there it means that she would be carrying Florida by a wide margin.
+Toni Right, it’s not really meaningful for this election. But if I were a Republican strategist looking at the long term, this map would scare me. If Democrats win Arizona in the future ... This is where the potential brand damage inflicted by Trump with Latinos could truly sting — if Arizona goes the way of California, for example.
+Nate Florida’s the state that should scare them.
+Toni Regarding the “autopsy” report after Republicans lost in 2012 — you and Sean Trende of RealClearPolitics and others have rightly pointed out that the importance of Latino voters was overstated for that election and even overstated for this November. There are plenty of white voters, enough for Trump to win. But for the long term? If Republicans can’t turn it around with Latinos, they’re walking into a demographic death trap.
+Nate I’m honestly not sure whether I agree right now. I don’t think we know how much upside a populist-conservative party might have among white voters.
+Toni O.K., that’s really interesting. Looking at, say, 2024 and 2028, a populist conservative party might make big inroads in the Midwest/Rust Belt. But that party might have a difficult time in states like Florida and Nevada and Colorado and (perhaps by then) Arizona. And then you see who comes out ahead.
+Nate I think right now the future of both parties is pretty unclear. What’s clear to me is that a new set of issues and messages could replace the ones we’ve gotten very used to hearing about. I’m not sure that the 2028 presidential election will be fought over tax cuts, gay marriage, abortion, or whatever else was argued about in the last decade. Four years ago, I wasn’t really sure what the key issues would be today. Now I think we can all agree that some issues, like immigration and trade, are very potent.
+Toni But if Florida is such an important state, then you can’t alienate Hispanics, or so one would think.
+Nate I think it’s hard for Republicans to get to 50 percent of the vote without gains across the board: white, Hispanic, even black. If they had a big breakthrough among any one group, especially whites, that could obviate the need to gain among the others for the foreseeable future.
+Right now, I’d guess that the next Republican who wins the presidency will do so without doing far better among Hispanic voters.
+Toni Hmm, to be continued on that topic.
+In recent weeks, Nate and Toni wondered why Donald Trump wasn’t campaigning in swing states; looked at the potential terms of surrender for Bernie Sanders; and discussed whether the superdelegate system should survive.
+

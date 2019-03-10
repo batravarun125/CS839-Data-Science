@@ -1,0 +1,32 @@
+URL: http://www.nytimes.com/2016/06/28/science/contagious-cancer-clams.html
+
+The ocean contains a vast number of living things, including many, many pathogens — from bacteria that thrive on coral to fungi that infect lobsters. A drop of seawater may hold 10 million viruses.
+Recently, a team of scientists revealed a frightening member of this menagerie: free-floating cancer cells that cause contagious tumors in shellfish. Last year, they found one such cancer in a species of clam. On Wednesday, they reported that three more species were plagued with contagious cancers.
+The cancers are specific to shellfish and do not appear to pose a danger to humans who eat them. But until now, infectious cancer was considered something of a fluke in the natural world, initially observed only in dogs and Tasmanian devils.
+The latest research has made scientists wonder whether infectious tumors are actually more widespread.
+“We were always thinking there would be more contagious cancer out there, but we didn’t know where they would be discovered,” said Elizabeth P. Murchison, a cancer biologist at the University of Cambridge who was not involved in the new study.
+In the traditional view of cancer, mutations strike a cell. These mutations have several causes, including toxins and viruses.
+However they arise, they drive a cell to multiply uncontrollably until the cancer is wiped out by the immune system or kills its victim. Either way, the cancer stays inside the body where it started.
+A decade ago, scientists discovered two exceptions. In the 1990s Tasmanian devils in Australia began developing deadly face tumors. But DNA in the tumor cells did not match that of the affected animals, studies showed.
+Tasmanian facial tumor disease, as it was eventually called, appears to have had its start in a single Tasmanian devil that lived in the 1980s. Transmitted by bites, the cancer spread to other Tasmanian devils and acquired mutations along the way that helped make it even more infectious. A second strain of the cancer was identified last year.
+Dogs, too, can get a type of contagious cancer called canine transmissible venereal tumor, which jumps from host to host during sex. The tumor usually disappears in a few months, however. Scientists have determined that the cancer originated in dogs 11,000 years ago.
+For years, Tasmanian devils and dogs were the only species known to contract contagious cancer. But last year, Stephen P. Goff, a molecular biologist at Columbia University, and his colleagues found contagious cancer in soft-shell clams.
+From New York to Prince Edward Island, these clams have suffered from aggressive tumors since the 1970s. Carol Reinisch, a marine biologist at Environment Canada, found that the cancer clustered in populations, as if it was caused by an outbreak of some sort.
+She suspected a cancer-causing virus moving from host to host. For help, Dr. Reinisch turned to Dr. Goff.
+The two researchers found no evidence of a virus in the soft-shell clams. But they did discover that DNA in the tumor cells carried a genetic sequence not found in healthy cells in the clams.
+After examining the DNA, they confirmed that the cancer cells in different clams all came from a single common ancestor.
+“Somehow, this cancer has been spreading from clam to clam up the coast,” Dr. Goff said.
+He and his colleagues began to wonder if other species of clams or related animals — known collectively as bivalves — had contagious cancers of their own, and, if so, why. They chose to study cancers in mussels, cockles and golden carpet shell clams.
+In every case, the researchers reported in the journal Nature, the cancers in the animals were contagious. “We are now at four for four,” Dr. Goff said.
+As it turned out, the cancer in cockles comprises two separate strains. Even stranger, the cancer cells in the golden carpet shell clams did not develop from the species’s own cells.
+Instead, the scientists matched the cancer’s DNA to pullet shell clams, which live in the same intertidal beds off the coast of Spain. But Dr. Goff and his colleagues could not locate any pullet shell clams with this disease.
+They concluded that this strain of contagious cancer must have started in pullet shell clams and then jumped species, infecting golden carpet shell clams. It killed all the vulnerable pullet shell clams, leaving only resistant ones behind.
+“That’s really quite incredible,” Dr. Murchison said, noting that scientists had tried without success to infect foxes and other dog relatives with canine cancer. The new study, she said, shows that contagious cancer can indeed cross the species barrier.
+With eight contagious cancers now on the books, Dr. Murchison has started to wonder if they are not as peculiar as previously thought. “They might be emerging fairly often,” she said.
+So should people worry about an outbreak of infectious cancer? “I don’t think we should be starting to panic,” Dr. Murchison said.
+There have been rare reports of people transmitting cancer. An estimated 0.04 percent of organ transplant recipients contract cancer from the donor organ, for example. But in these cases, the cancer does not spread like a true parasite from host to host.
+Yet it’s not inconceivable that a human cancer might gain that power. In 1965, scientists put mosquitoes in a cage with hamsters, one of which had cancer. The mosquito carried the cancer cells to the healthy hamsters.
+The new research “does raise the possibility that these types of diseases could arise in humans,” Dr. Murchison said.
+Dr. Goff and his colleagues are now trying to turn the contagious cancer in shellfish into a model for human cancers. They hope to find clues to metastasis, the way cancer spreads through the body.
+The evolution of a contagious cancer in some ways may mirror the evolution of a single tumor in the body. In shellfish, Dr. Murchison said, “we can see the effect of evolution on their genomes in a more pronounced way.”
+

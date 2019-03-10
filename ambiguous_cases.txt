@@ -1,0 +1,19 @@
+(Mr. [A-Za-z’]*)
+261 Professor Simón
+273 Pope <name>Francis</name>
+276 <name>Romare Bearden</name>, Kehinde Wiley, Jamel Shabazz or Lorna Simpson,deleted in end also
+288 lilac fairy
+289 king edward
+293 deleted something
+295 Brig. removed in gen. charles h. cleveland
+297 deleted something
+298 nothing
+299 4
+300 1
+301 removed
+305 removed
+307 1
+308 deleted
+313 1
+
+</name>

@@ -1,0 +1,285 @@
+<name>Wei Xiaobin</name>
+<name>Xi Jinping</name>
+<name>Rogier Creemers</name>
+<name>Victor</name>
+<name>Muhammad Ali</name>
+<name>Jesse Williams</name>
+<name>Donald J Trump</name>
+<name>Corey Kluber</name>
+<name>Fabrcio Werdum</name>
+<name>de Blasio</name>
+<name>George W Bush</name>
+<name>Stephen Harper</name>
+<name>JeanMichel Basquiat</name>
+<name>Gerhard Richters</name>
+<name>Johnny Depp</name>
+<name>Basquiat</name>
+<name>Scully</name>
+<name>Basquiat</name> <name>Ghenie</name>and <name>Scully</name>
+<name>Andy Warhols</name>
+<name>Kurt R Karst</name>
+<name>Max G Bronstein</name>
+<name>Micah Alleyne</name>
+<name>Marius Petipas</name>
+<name>Cinderella</name>
+<name>Luis F Calderon</name>
+<name>Almudena Bernabeu</name>
+<name>Andy Cohen</name>
+<name>Jillian Balow</name>
+<name>Rio</name>
+<name>David Snyder</name>
+<name>Pat McCormick</name>
+<name>Boudia</name>
+<name>Cook</name>
+<name>Johnstons</name>
+<name>Russ Kaplan</name>
+<name>Sara Wordsworth</name>
+<name>Deke Sharon</name>
+<name>Patrick F Kennedy</name>
+<name>Bill Clinton</name>
+<name>Sam Saylor</name>
+<name>Shane</name>
+<name>Rosa DeLauro</name>
+<name>Susan Collins</name>
+<name>Elijah Cummings</name>
+<name>Larry Scott Kilgore</name>
+<name>Donald J Trump</name>
+<name>Pamela Golbin</name>
+<name>Coco Chanel</name>
+<name>Alexander McQueen</name>
+<name>Alexander McQueen</name>
+<name>Joe Hart</name>
+<name>Aron Gunnarsson</name>
+<name>Ian Darke</name>
+<name>Rhoda Yusuf</name>
+<name>Abba</name>
+<name>Bill Clinton</name>
+<name>Mark Cuban</name>
+<name>Ted Danson</name>
+<name>Anouar</name>
+<name>Leyla Njim</name>
+<name>Jessica Williams</name>
+<name>Hugh Grant</name>
+<name>Tim Kaine</name>
+<name>Robert Menendez</name>
+<name>Ron Wyden</name>
+<name>Kasatkina</name>
+<name>Samantha Stosur</name>
+<name>Duval</name>
+<name>Duval</name>
+<name>Drke</name>
+<name>Willis</name>
+<name>Federers</name>
+<name>Marin Cilic</name>
+<name>Williams</name>
+<name>Angelique Kerber</name>
+<name>John Boyega</name>
+<name>Brie Larson</name>
+<name>Lana</name>
+<name>Mary Harron</name>
+<name>Taika Waititi</name>
+<name>James</name>
+<name>Jennifer Hudson</name>
+<name>Pau Gasol</name>
+<name>Joakim Noah</name>
+<name>Hornacek</name>
+<name>Kristaps Porzingis</name>
+<name>Jackson</name><name>Early</name>
+<name>Howard Eisley</name>
+<name>Corey Gaines</name>
+<name>Hornacek</name>
+<name>Christopher F Patten</name>
+<name>Johannes Chan</name>
+<name>Margaret Thatcher</name>
+<name>Stephen Curry</name>
+<name>Russell Westbrook</name>
+<name>Dirk Nowitzki</name>
+<name>Kevin Durant</name>
+<name>Klay Thompson</name>
+<name>Kyrie Irving</name>
+<name>Pau Gasol</name>
+<name>Marc</name>
+<name>Ricky Rubio</name>
+<name>John Cornyn</name>
+<name>Benjamin Netanyahu</name>
+<name>Gideon Saar</name>
+<name>Shaul</name>
+<name>Joseph I Lieberman</name>
+<name>Edward J Snowden</name>
+<name>Snowden</name>
+<name>David Plouffe</name>
+<name>Obama</name>
+<name>David Leyonhjelm</name>
+<name>Smith</name>
+<name>John C Malone</name>
+<name>Ross Matsubara</name>
+<name>Leandra Medine</name>
+<name>Will Nathan</name>
+<name>Mr Santos</name>
+<name>Jon Neman</name>
+<name>Bruce Jenner</name>
+<name>Sara</name>
+<name>Leo</name>
+<name>Larry David</name>
+<name>Edward J Snowden</name>
+<name>Obama</name>
+<name>Noah Knauf</name>
+<name>David Cameron</name>
+<name>Matteo Renzi</name>
+<name>Oliver Letwin</name>
+<name>Enda Kenny</name>
+<name>Amy Hagstrom</name>
+<name>David Rosenberg</name>
+<name>Francis</name>
+<name>John Paul II</name>
+<name>Francis</name>
+<name>Hillary Clinton</name>
+<name>Donald Trump</name>
+<name>Adani</name>
+<name>Alan Wolk</name>
+<name>Barbara Barrie</name>
+<name>Ledecky</name>
+<name>Maya DiRado</name>
+<name>Benno Bulang</name>
+<name>Jan Piasecki</name>
+<name>Pepe</name>
+<name>Cristiano Ronaldo</name>
+<name>Bruce Nauman</name>
+<name>Emily Jacir</name>
+<name>Irene</name>
+<name>Fred</name>
+<name>Susan G Parker</name>
+<name>Nicola Sturgeon</name>
+<name>Rafael Behr</name>
+<name>Van Garderen</name>
+<name>Richie Porte</name>
+<name>Alex Howes</name>
+<name>Talansky</name>
+<name>Howes</name>
+<name>Stetina</name>
+<name>Rick Perry</name>
+<name>Stephen G Breyer</name>
+<name>Kennedys</name>
+<name>Kennedys</name>
+<name>Cohen</name>
+<name>Thomas</name>
+<name>Tyrone Woods</name>
+<name>Philip Oppenheimer</name>
+<name>Martin Rapaport</name>
+<name>Jay Brown</name>
+<name>Teju Cole</name>
+<name>Obama</name>
+<name>Richard Avedon</name>
+<name>King</name>
+<name>Annie Leibovitz</name>
+<name>Sally Mann</name>
+<name>Annie</name>
+<name>Jason Moran</name>
+<name>Richard Powell</name>
+<name>Brian Newby</name>
+<name>Jan Caldwell</name>
+<name>Richard Shelby</name>
+<name>Obama</name>
+<name>Didier Deschamps</name>
+<name>Phelpss</name>
+<name>Kaliszs</name>
+<name>Le Clos</name>
+<name>Phelps</name>
+<name>Phelps</name>
+<name>Nayim Mangal</name>
+<name>Donald J Trump</name>
+<name>Blair Latoff Holmes</name>
+<name>Ellen Stewart</name>
+<name>Bill Woodley</name>
+<name>Francisco Perez</name>
+<name>Maddies</name>
+<name>Laura Wingfield</name>
+<name>Donald J Trump</name>
+<name>Bill Clinton</name>
+<name>Edward M Kennedy</name>
+<name>Nixon</name>
+<name>Nixon</name> <name>Kissinger</name>
+<name>Terry Collins</name>
+<name>Collins</name>
+<name>Alejandro De Aza</name>
+<name>Scherzer</name>
+<name>Nimmo</name>
+<name>De Aza</name>
+<name>Verrett</name>
+<name>Daniel Murphy</name>
+<name>Collins</name>
+<name>Jeurys Familia</name>
+<name>Gilmartin</name>
+<name>Noah Syndergaard</name>
+<name>Jamie Pohotsky</name>
+<name>Vlez</name>
+<name>Yulieski Gourriel</name>
+<name>Michel Laplante</name>
+<name>Laplante</name>
+<name>Stephen Crabb</name>
+<name>Jeremy Hunt</name>
+<name>Nick Clegg</name>
+<name>Gordon Brown</name>
+<name>Tony Blair</name>
+<name>Jeffrey R Immelt</name>
+<name>Pamela Robinson</name>
+<name>Brian Concannon Jr</name>
+<name>Steven Stamkos</name>
+<name>Tampa Bay</name>
+<name>Bergevin</name>
+<name>Stamkos</name>
+<name>Mr Trump</name>
+<name>Percy E Sutton</name>
+<name>Basil A Paterson</name>
+<name>Eliza Doolittle</name>
+<name>Tzeitel</name>
+<name>Joey Stein</name>
+<name>Rob Portman</name>
+<name>Obamas</name>
+<name>Elise Stefanik</name>
+<name>Roger Federer</name>
+<name>Williss</name>
+<name>Federer</name>
+<name>Roger Federer</name>
+<name>Willis</name>
+<name>Willis</name>
+<name>Federer</name>
+<name>Willis</name>
+<name>Federer</name>
+<name>Willis</name>
+<name>Ben Baldanza</name>
+<name>Rob Toledo</name>
+<name>Dr JartPlus</name>
+<name>Bernie Sanders</name>
+<name>Tim Scott</name>
+<name>Senator Barbara Boxer</name>
+<name>Roger Federer</name>
+<name>Mannarino</name>
+<name>Eugenie Bouchard</name>
+<name>Monica Puig</name>
+<name>Anastasia Pavlyuchenkova</name>
+<name>John Isner</name>
+<name>YGs</name>
+<name>Tom Golisano</name>
+<name>Mattia De Sciglio</name>
+<name>Conte</name>
+<name>Buffon</name>
+<name>Avery Fisher</name>
+<name>David Geffen</name>
+<name>Barry Diller</name>
+<name>David Lan</name>
+<name>Nicholas Negroponte</name>
+<name>Jeff Banister</name>
+<name>Andrew Miller</name>
+<name>Miller</name>
+<name>Christine Link</name>
+<name>Jenner</name>
+<name>Nick Young</name>
+<name>Victor Cruz</name>
+[180, 278, 46, 4361]
+             precision    recall  f1-score   support
+
+          0       0.94      0.99      0.96      4407
+          1       0.80      0.39      0.53       458
+
+avg / total       0.93      0.93      0.92      4865
