@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 
     args = parser.parse_args()
-
+    print("started preprocessing for " + args.splitType)
     if args.splitType.startswith('train'):
         args.dataFile = 'results/Tokenizedtrain.csv'
         args.outFile = 'results/PreProcessedTrain.csv'
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     
     if not args.notRemoveVerbs:
 
-        print("Removing Versbs")
+        print("Removing Verbs")
         #load verbs
         verbs = readFile(args.verbFile)
         initRow = data.shape[0]
@@ -75,7 +75,7 @@ if __name__ == '__main__':
         print("Removing Only Prefixes")
         #load verbs
         prefixes = readFile(args.prefixesFile)
-        print(prefixes)
+        # print(prefixes)
         initRow = data.shape[0]
         # print(data[:100]['Tokens'].replace('<name>', ''))
         data = data[~data['Tokens'].str.replace('<location>', '').isin(prefixes)]
@@ -114,8 +114,8 @@ if __name__ == '__main__':
         remove_list = []
         for idx, row in zip(range(len(data)),data['Tokens']):
             # print(row['Tokens'], idx)
-            if(idx%10000 == 0):
-                print("done"+str(idx) +row)
+            # if(idx%10000 == 0):
+            #     print("done"+str(idx) +row)
 
             for j in row.split():
                 if (j[0] in string.ascii_lowercase):
@@ -139,3 +139,4 @@ if __name__ == '__main__':
     print('TOTAL: {} rows removed'.format(totalRowsRemoved))
 
     data.to_csv(args.outFile, sep = '`', index=False)
+    print('Done!!')

@@ -53,12 +53,12 @@ def get_all_elements(dir_path):
     output_classes = []
     start_tag = '<location>'
     end_tag = '</location>'
-    print(dir_path)
+    # print(dir_path)
     for filename in listdir(dir_path):
         if not filename.endswith('.txt'):
             continue
         fname = os.path.join(dir_path, filename)
-        print(fname)
+        # print(fname)
         index = 0
         line_sentences = get_sentences(fname)
         # print(len(line_sentences))
@@ -113,5 +113,7 @@ def get_all_elements(dir_path):
 
 
 dir_path, type_of_split = read_input()
+print("started tokenization for "+type_of_split)
 df = get_all_elements(dir_path)
 df.to_csv(output_dir_path+"Tokenized"+type_of_split+".csv", sep = '`', index = False)
+print("done!!")

@@ -119,6 +119,7 @@ if __name__ == '__main__':
     # insert_csv_col("PREV_VEC", [0]*300)
     # insert_csv_col("POST_VEC", [0]*300)
 
+    print("started feature extraction for " + var)
 
     verbs_file = open('./specials/verbs4.txt')
     stopwords_file = open('./specials/stopwords.txt')
@@ -132,7 +133,7 @@ if __name__ == '__main__':
     locations_file = open('./specials/locations.txt')
 
     word_vec = get_wordvec(PATH_TO_VEC)
-    print(word_vec['believe'].tolist())
+    # print(word_vec['believe'].tolist())
 
     verbs = verbs_file.read().lower().split()
     stopwords = stopwords_file.read().lower().split()
@@ -143,11 +144,11 @@ if __name__ == '__main__':
     saySynonmys=saySynonmys_file.read().lower().split()
     relationships = relationships_file.read().lower().split()
     positions = positions_file.read().lower().split()
-    print(positions)
+    # print(positions)
     country = country_file.read().lower().split()
     locations = locations_file.read().lower().split()
 
-    print("files read")
+    print("Files read.")
 
     file_data_dict = dict()
 
@@ -226,8 +227,8 @@ if __name__ == '__main__':
         if len(postring)>0:
             postword = postring[0].lower()
 
-        if(j<10):
-            print(str(prestring)+"~@@~"+str(postring)+"~@@~"+preword+"~@@~"+postword)
+        # if(j<10):
+        #     print(str(prestring)+"~@@~"+str(postring)+"~@@~"+preword+"~@@~"+postword)
 
 
 
