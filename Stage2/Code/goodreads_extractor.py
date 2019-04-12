@@ -101,6 +101,7 @@ while mainPage.status_code == 200:
             # out_string = '~'.join((title, authorName, rating, bookformat, pages)).strip()
             print(out_string)
             csv.write(out_string)
+            csv.flush()
             print(count)
             count = count + 1
             # print("Book " + repr(count))
