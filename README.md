@@ -24,10 +24,10 @@
 
 
 # Project Stage – 2 Named Entity Recognition
-  [Directory that stores the CSV data ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
+  [Directory that stores the CSV data ](https://github.com/batravarun125/CS839-Data-Science/tree/master/Stage2/Data)
 
-  [Code ](https://github.com/batravarun125/CS839-Data-Science)
+  [Code ](https://github.com/batravarun125/CS839-Data-Science/tree/master/Stage2/Code)
 
-  [Report ](https://github.com/batravarun125/CS839-Data-Science/blob/master/CS839-Stage1-Report.pdf)
+  [Report ]()
  
   
