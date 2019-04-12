@@ -1,4 +1,11 @@
-Varun Batra (vbatra@wisc.edu), Vibhor Goel (vgoel5@wisc.edu), Adarsh Kumar (kumar92@wisc.edu)
+# CS839 Data Sciences
+  Project Page for CS839 Data Sciences
+  
+# Team Members
+  Varun Batra (vbatra@wisc.edu)
+  Vibhor Goel (vgoel5@wisc.edu)
+  Adarsh Kumar (kumar92@wisc.edu)
+  
 # Project Stage – 1 Named Entity Recognition
   
   [Directory that stores the raw documents ](https://github.com/batravarun125/CS839-Data-Science/tree/master/data/raw_copy)
