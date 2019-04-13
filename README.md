@@ -28,6 +28,6 @@
 
   [Code ](https://github.com/batravarun125/CS839-Data-Science/tree/master/Stage2/Code)
 
-  [Report ]()
+  [Report ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage2/Report_Stage-2.pdf)
  
   
