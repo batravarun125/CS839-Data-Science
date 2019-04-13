@@ -13,7 +13,7 @@ agent.update({
 arr = ["https://www.amazon.com/s?k=religion&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=sex&i=stripbooks&ref=nb_sb_noss","https://www.amazon.com/s?k=religion&i=stripbooks&ref=nb_sb_noss"]
 htmlpage = requests.get(arr[0], headers=agent)
 arr_count = 1
-csv = open("amazonn.csv", "w", encoding='utf=8')
+csv = open("amazon_data.csv", "w", encoding='utf=8')
 csv.write("name, author, rating, format, year\n")
 check = 0
 while htmlpage.status_code == 200:
