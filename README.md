@@ -3,7 +3,9 @@
   
 # Team Members
   Varun Batra (vbatra@wisc.edu)
+ 
   Vibhor Goel (vgoel5@wisc.edu)
+  
   Adarsh Kumar (kumar92@wisc.edu)
   
 # Project Stage – 1 Named Entity Recognition
