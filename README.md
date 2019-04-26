@@ -41,7 +41,7 @@ UserID - vavgroup1
 
 Project Name - group1_stage3
 
-Project ID - 22
+Project ID - 22 (mentioned in the URL)
 
 Group Number - 1
 
@@ -57,6 +57,8 @@ UserID - vavgroup1
 
 Project Name - 	group_1_step_1_stage_3
 
+Project ID - 22 (mentioned in the URL)
+
 Group Number - 1
 
  [ Top ten blocking rules that CloudMatcher has learned ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/Blocking_rules.pdf)
@@ -67,6 +69,8 @@ Group Number - 1
 UserID - vavgroup1
 
 Project Name - 	group_1_step_1_stage_3
+
+Project ID - 22 (mentioned in the URL)
 
 Group Number - 1
 
