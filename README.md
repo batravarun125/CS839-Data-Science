@@ -44,3 +44,6 @@ Project Name - group1_stage3
 Group Number - 1
 
  [ Statistics of Matching ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/cloudmatcher_SS.pdf)
+ 
+ [ Full Statistics ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/group1stage3_al_ds)
+ 
