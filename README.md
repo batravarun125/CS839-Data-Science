@@ -33,7 +33,9 @@
   [Report ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage2/Report_Stage-2.pdf)
  
   
-# Project Stage – 3 Matching Fodors and Zagats
+# Project Stage – 3 
+
+# Matching Fodors and Zagats
 
 UserID - vavgroup1
 
@@ -46,4 +48,19 @@ Group Number - 1
  [ Statistics of Matching ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/cloudmatcher_SS.pdf)
  
  [ Full Statistics ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/group1stage3_al_ds)
+ 
+
+
+# Blocking Results
+
+UserID - vavgroup1
+
+ProjectID - 22
+
+Project Name - 	group_1_step_1_stage_3
+
+Group Number - 1
+
+ [ Top ten blocking rules that CloudMatcher has learned ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/cloudmatcher_SS.pdf)
+ 
  
