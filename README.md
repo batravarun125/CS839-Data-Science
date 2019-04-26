@@ -1,4 +1,4 @@
-# CS839 Data Sciences
+# CS-839 Data Sciences
   Project Page for CS839 Data Sciences
   
 # Team Members
