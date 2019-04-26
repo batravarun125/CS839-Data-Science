@@ -59,4 +59,16 @@ Group Number - 1
 
  [ Top ten blocking rules that CloudMatcher has learned ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/Blocking_rules.pdf)
  
+
+# Matching Results
+
+UserID - vavgroup1
+
+Project Name - 	group_1_step_1_stage_3
+
+Group Number - 1
+
+ [ Last Screen after Matching Completed ]()
  
+ 
+
