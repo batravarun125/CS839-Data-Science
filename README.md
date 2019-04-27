@@ -61,7 +61,7 @@ Project ID - 34 (mentioned in the URL)
 
 Group Number - 1
 
- [ Top ten blocking rules that CloudMatcher has learned ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/TheBlockingRules.pdf)
+ [ Top ten blocking rules that CloudMatcher has learned ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/MyBockingFinal.pdf)
  
 
 # Matching Results
