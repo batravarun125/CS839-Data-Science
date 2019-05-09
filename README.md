@@ -76,5 +76,28 @@ Group Number - 1
 
  [ Last Screen after Matching Completed ](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/MatchingPDF.pdf)
  
- 
+ # Estimating accuracy
+
+[Prediction list]()
+
+[Candidate set]()
+
+[Table A]()
+
+[Table B]()
+
+Size of the candidate set C - 
+
+Since size of candidate set C is greater than 500 :
+
+[PDF file for describing blocking rules]()
+
+[Blocking Code]()
+
+[Reduced set of candidate tuple pairs]()
+
+[400 uple pairs sampled and manually labeled]()
+
+[Precision and Recall] - 
+
 
