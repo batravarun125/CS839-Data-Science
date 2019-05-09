@@ -98,6 +98,6 @@ Since size of candidate set C is greater than 500 :
 
 [400 uple pairs sampled and manually labeled]()
 
-[Precision and Recall] - 
+Precision and Recall - 
 
 
