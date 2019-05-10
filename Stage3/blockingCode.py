@@ -30,6 +30,6 @@ if __name__ == '__main__':
         stringB=str(goodreads.iloc[candidate_set.iloc[i,1],1]).upper()
         if check_jaccard('##' + stringA + '##','##' + stringB + '##')<0.2:
             final_set.append(i)
-    candidate_set.drop(final_set,inplace=True)
+    candidate_set.drop(final_set, inplace=True)
     print(len(candidate_set))
-    candidate_set.to_csv('candidate_blocking.csv',sep=',',header=True,index=False)
+    candidate_set.to_csv('candidate_blocking.csv', sep=',', header=True, index=False)
