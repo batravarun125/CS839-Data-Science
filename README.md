@@ -78,25 +78,27 @@ Group Number - 1
  
  # Estimating accuracy
 
-[Prediction list]()
+[Prediction list](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/prediction)
 
-[Candidate set]()
+[Candidate set](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/candidate)
 
-[Table A]()
+[Table A](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/tableA)
 
-[Table B]()
+[Table B](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/tableB)
 
-Size of the candidate set C - 
+Size of the candidate set C - 33865
 
 Since size of candidate set C is greater than 500 :
 
-[PDF file for describing blocking rules]()
+[PDF file for describing blocking rules](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/CS.docx)
 
-[Blocking Code]()
+[Blocking Code](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/blockingCode.py)
 
-[Reduced set of candidate tuple pairs]()
+[Reduced set of candidate tuple pairs](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/candidate_blocking.csv)
 
-[400 uple pairs sampled and manually labeled]()
+Size of the reduced candidate set C - 1022
+
+[408 uple pairs sampled and manually labeled](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/manually_labeled_400.csv)
 
 Precision and Recall - 
 
