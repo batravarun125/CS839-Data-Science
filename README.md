@@ -98,7 +98,7 @@ Since size of candidate set C is greater than 500 :
 
 Size of the reduced candidate set C - 1022
 
-[408 uple pairs sampled and manually labeled](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/manually_labeled_400.csv)
+[408 uple pairs sampled and manually labeled](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/manually_labeled.csv)
 
 Precision and Recall - 
 
