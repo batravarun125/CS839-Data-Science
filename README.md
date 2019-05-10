@@ -94,7 +94,7 @@ Since size of candidate set C is greater than 500 :
 
 [Blocking Code](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/blockingCode.py)
 
-[Reduced set of candidate tuple pairs](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/candidate_blocking.csv)
+[Reduced set of candidate tuple pairs](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/candidate_set_reduced.csv)
 
 Size of the reduced candidate set C - 1022
 
