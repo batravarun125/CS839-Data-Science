@@ -3,7 +3,6 @@ import pandas as pd
 
 amazon=pd.read_csv('tableA')
 goodreads=pd.read_csv('tableB')
-candidate_set=pd.read_csv('stage3_1_apply_rules_ds')
 #print(len(candidate_set))
 temp_set=[]
 
@@ -24,7 +23,7 @@ def check_jaccard(string1,string2):
     
 
 if __name__ == '__main__':
-
+    candidate_set=pd.read_csv('stage3_1_apply_rules_ds')
     for i in range(0,len(candidate_set)):
         stringA=str(amazon.iloc[candidate_set.iloc[i,0],1]).upper()
         # print(str(goodreads.iloc[candidate_set.iloc[i,1],1]).upper())
