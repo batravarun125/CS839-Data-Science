@@ -5,7 +5,7 @@ amazon=pd.read_csv('tableA')
 goodreads=pd.read_csv('tableB')
 candidate_set=pd.read_csv('stage3_1_apply_rules_ds')
 #print(len(candidate_set))
-final_set=[]
+temp_set=[]
 
 
 def check_jaccard(string1,string2):
@@ -19,7 +19,8 @@ def check_jaccard(string1,string2):
     for item in setA:
         if item in setB:
             count = count + 1
-    return float(count) / (len(string1) + len(string2) - count)
+    den = len(string1) + len(string2) - count
+    return float(count) / den
     
 
 if __name__ == '__main__':
@@ -29,7 +30,8 @@ if __name__ == '__main__':
         # print(str(goodreads.iloc[candidate_set.iloc[i,1],1]).upper())
         stringB=str(goodreads.iloc[candidate_set.iloc[i,1],1]).upper()
         if check_jaccard('##' + stringA + '##','##' + stringB + '##')<0.2:
-            final_set.append(i)
-    candidate_set.drop(final_set, inplace=True)
+            temp_set.append(i)
+    candidate_set.drop(temp_set, inplace=True)
     print(len(candidate_set))
     candidate_set.to_csv('candidate_blocking.csv', sep=',', header=True, index=False)
+    #print("here")
