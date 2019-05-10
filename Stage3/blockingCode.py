@@ -22,14 +22,13 @@ amazon=pd.read_csv('/Users/varunbatra/Downloads/tableA')
 goodreads=pd.read_csv('/Users/varunbatra/Downloads/tableB')
 candidate_set=pd.read_csv('/Users/varunbatra/Downloads/stage3_1_apply_rules_ds')
 #print(len(candidate_set))
-t=[]
+final_set=[]
 for i in range(0,len(candidate_set)):
-    flag=0
     stringA=str(amazon.iloc[candidate_set.iloc[i,0],1]).upper()
     # print(str(goodreads.iloc[candidate_set.iloc[i,1],1]).upper())
     stringB=str(goodreads.iloc[candidate_set.iloc[i,1],1]).upper()
     if check_jaccard(stringA,stringB)<0.2:
-        t.append(i)
-candidate_set.drop(t,inplace=True)
+        final_set.append(i)
+candidate_set.drop(final_set,inplace=True)
 print(len(candidate_set))
 candidate_set.to_csv('/Users/varunbatra/Downloads/candidate_blocking.csv',sep=',',header=True,index=False)
