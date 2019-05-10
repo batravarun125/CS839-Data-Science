@@ -90,7 +90,7 @@ Size of the candidate set C - 33865
 
 Since size of candidate set C is greater than 500 :
 
-[PDF file for describing blocking rules](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/CS.docx)
+[PDF file for describing blocking rules](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/Stage3-pdf.pdf)
 
 [Blocking Code](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/blockingCode.py)
 
