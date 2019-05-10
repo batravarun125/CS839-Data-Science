@@ -3,7 +3,6 @@ import pandas as pd
 
 amazon=pd.read_csv('tableA')
 goodreads=pd.read_csv('tableB')
-#print(len(candidate_set))
 temp_set=[]
 
 
