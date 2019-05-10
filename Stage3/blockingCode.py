@@ -30,4 +30,4 @@ if __name__ == '__main__':
     candidate_set.drop(temp_set, inplace=True)
     print(len(candidate_set))
     candidate_set.to_csv('candidate_set_reduced.csv', sep=',', header=True, index=False)
-    #print("here")
+    print("here")
