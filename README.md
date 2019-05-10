@@ -101,5 +101,7 @@ Size of the reduced candidate set C - 1022
 [408 uple pairs sampled and manually labeled](https://github.com/batravarun125/CS839-Data-Science/blob/master/Stage3/manually_labeled.csv)
 
 Precision and Recall - 
+
 Recall = [0.9245661260987389 - 0.9906881111893967]
+
 Precision = [0.9786859554103629 - 1.0037701849405143]
